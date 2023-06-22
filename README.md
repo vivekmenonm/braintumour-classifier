@@ -66,5 +66,4 @@ We would like to acknowledge the creators of the brain tumor dataset used in thi
 ## References
 
 - [Kaggle - Brain Tumor Classification MRI Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?datasetId=672377&sortBy=voteCount)
-- Insert any additional references or resources used in the project.
 
