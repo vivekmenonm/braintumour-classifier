@@ -4,7 +4,7 @@ The Brain Tumor Classifier is an application that utilizes deep learning techniq
 
 ## Dataset
 
-The dataset used for training and evaluating the Brain Tumor Classifier can be obtained from [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?datasetId=672377&sortBy=voteCount). It provides a diverse collection of brain tumor images for different tumor types, including meningioma, glioma, pituitary tumor, and glioblastoma.
+The dataset used for training and evaluating the Brain Tumor Classifier can be obtained from [Brain tumour dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). It provides a diverse collection of brain tumor images for different tumor types, including meningioma, glioma, pituitary tumor, and glioblastoma.
 
 ## Methodology
 
@@ -65,5 +65,5 @@ We would like to acknowledge the creators of the brain tumor dataset used in thi
 
 ## References
 
-- [Kaggle - Brain Tumor Classification MRI Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?datasetId=672377&sortBy=voteCount)
+- [Kaggle - Brain Tumor Classification MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
